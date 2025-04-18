@@ -1,8 +1,6 @@
 # Pulse-Code-Modulation
 # Aim
-```
-Write the objective of the experiment.
-```
+Write a Python program for the modulation and demodulation of PCM.
 # Tools required
 # Program
 ```
