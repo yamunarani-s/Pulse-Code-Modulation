@@ -1,6 +1,6 @@
 # Pulse-Code-Modulation
 # Aim
-Write a Python program for the modulation and demodulation of PCM.
+Write a simple Python program for the modulation and demodulation of PCM, and DM.
 # Tools required
 # Program
 ```
